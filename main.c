@@ -3,5 +3,6 @@ Make file main.c
 
 int main(){
 	printf("Hello World");
+	printf("My name is Khoi")
 	return 0;
 }
